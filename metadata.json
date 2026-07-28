@@ -1,0 +1,6 @@
+{
+  "name": "Harsh Medical Store",
+  "description": "Your Trusted Medical Store for Genuine Medicines & Healthcare Needs in Chadauti, Gaya, Bihar. Dedicated pharmacy offering prescription medicines, OTC remedies, surgicals, and healthcare equipment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

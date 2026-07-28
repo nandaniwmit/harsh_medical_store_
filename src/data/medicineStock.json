@@ -1,0 +1,164 @@
+[
+  {
+    "id": "med-1",
+    "medicineName": "Dolo 650 Tablet",
+    "brand": "Micro Labs",
+    "mrp": 30.50,
+    "availableQuantity": 150,
+    "expiry": "2027-12-01",
+    "status": "Available"
+  },
+  {
+    "id": "med-2",
+    "medicineName": "Pan-D Capsule (Pantoprazole + Domperidone)",
+    "brand": "Alkem Laboratories",
+    "mrp": 145.00,
+    "availableQuantity": 85,
+    "expiry": "2027-08-15",
+    "status": "Available"
+  },
+  {
+    "id": "med-3",
+    "medicineName": "Azithral 500 (Azithromycin)",
+    "brand": "Alembic Pharmaceuticals",
+    "mrp": 119.50,
+    "availableQuantity": 4,
+    "expiry": "2027-04-10",
+    "status": "Limited Stock"
+  },
+  {
+    "id": "med-4",
+    "medicineName": "Clavam 625 Tablet (Amoxicillin + Clavulanic Acid)",
+    "brand": "Alkem Laboratories",
+    "mrp": 223.00,
+    "availableQuantity": 45,
+    "expiry": "2027-09-30",
+    "status": "Available"
+  },
+  {
+    "id": "med-5",
+    "medicineName": "Glycomet 500 (Metformin)",
+    "brand": "USV Pvt Ltd",
+    "mrp": 25.00,
+    "availableQuantity": 300,
+    "expiry": "2028-02-28",
+    "status": "Available"
+  },
+  {
+    "id": "med-6",
+    "medicineName": "Lipivas 10 (Atorvastatin)",
+    "brand": "Cipla Ltd",
+    "mrp": 78.00,
+    "availableQuantity": 0,
+    "expiry": "2026-11-20",
+    "status": "Out of Stock"
+  },
+  {
+    "id": "med-7",
+    "medicineName": "Alerid 10mg (Cetirizine)",
+    "brand": "Cipla Ltd",
+    "mrp": 18.20,
+    "availableQuantity": 200,
+    "expiry": "2027-10-05",
+    "status": "Available"
+  },
+  {
+    "id": "med-8",
+    "medicineName": "Becosules Capsules (B-Complex + Vitamin C)",
+    "brand": "Pfizer Ltd",
+    "mrp": 50.00,
+    "availableQuantity": 120,
+    "expiry": "2028-05-18",
+    "status": "Available"
+  },
+  {
+    "id": "med-9",
+    "medicineName": "Benadryl Cough Syrup (100ml)",
+    "brand": "Johnson & Johnson",
+    "mrp": 140.00,
+    "availableQuantity": 6,
+    "expiry": "2027-01-22",
+    "status": "Limited Stock"
+  },
+  {
+    "id": "med-10",
+    "medicineName": "Electral Powder (ORS 21.8g)",
+    "brand": "FDC Ltd",
+    "mrp": 22.00,
+    "availableQuantity": 500,
+    "expiry": "2028-06-30",
+    "status": "Available"
+  },
+  {
+    "id": "med-11",
+    "medicineName": "Asthalin Inhaler (100 mdi)",
+    "brand": "Cipla Ltd",
+    "mrp": 158.00,
+    "availableQuantity": 25,
+    "expiry": "2027-03-14",
+    "status": "Available"
+  },
+  {
+    "id": "med-12",
+    "medicineName": "Himalaya Baby Powder (200g)",
+    "brand": "Himalaya Wellness",
+    "mrp": 160.00,
+    "availableQuantity": 15,
+    "expiry": "2027-07-25",
+    "status": "Available"
+  },
+  {
+    "id": "med-13",
+    "medicineName": "Vicks Vaporub (50g)",
+    "brand": "Procter & Gamble",
+    "mrp": 175.00,
+    "availableQuantity": 50,
+    "expiry": "2028-01-01",
+    "status": "Available"
+  },
+  {
+    "id": "med-14",
+    "medicineName": "Ecosprin 75 Tablet",
+    "brand": "USV Pvt Ltd",
+    "mrp": 6.50,
+    "availableQuantity": 400,
+    "expiry": "2028-04-12",
+    "status": "Available"
+  },
+  {
+    "id": "med-15",
+    "medicineName": "Telma 40 (Telmisartan)",
+    "brand": "Glenmark Pharmaceuticals",
+    "mrp": 112.00,
+    "availableQuantity": 90,
+    "expiry": "2027-11-09",
+    "status": "Available"
+  },
+  {
+    "id": "med-16",
+    "medicineName": "Volini Pain Relief Gel (50g)",
+    "brand": "Sun Pharmaceutical",
+    "mrp": 185.00,
+    "availableQuantity": 0,
+    "expiry": "2026-10-30",
+    "status": "Out of Stock"
+  },
+  {
+    "id": "med-17",
+    "medicineName": "Omron HEM 7120 BP Monitor",
+    "brand": "Omron",
+    "mrp": 2450.00,
+    "availableQuantity": 8,
+    "expiry": "2031-12-31",
+    "status": "Available"
+  },
+  {
+    "id": "med-18",
+    "medicineName": "Omee Capsule (Omeprazole)",
+    "brand": "Alkem Laboratories",
+    "mrp": 62.00,
+    "availableQuantity": 2,
+    "expiry": "2027-05-18",
+    "status": "Limited Stock"
+  }
+]

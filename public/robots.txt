@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://harsh-medical-store-nine.vercel.app/sitemap.xml

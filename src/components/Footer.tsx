@@ -241,15 +241,8 @@ export default function Footer() {
         <div className="border-t border-slate-800 pt-8 flex flex-col md:flex-row items-center justify-between text-xs text-slate-500 gap-4">
           <p>&copy; {new Date().getFullYear()} Harsh Medical Store. All rights reserved.</p>
           <p className="flex items-center space-x-1">
-            <span>Developed by</span>
-            <a
-              href="https://main.webmakerit.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-teal-400 hover:text-teal-300 font-semibold inline-flex items-center transition-colors duration-200"
-            >
-              WMIT <ExternalLink className="w-3 h-3 ml-0.5" />
-            </a>
+            <span></span>
+            <a href="#" className="wmit-popup-trigger hover:text-white underline transition-colors" target="_blank" rel="noopener noreferrer">Developed by WMIT</a>
           </p>
         </div>
 
